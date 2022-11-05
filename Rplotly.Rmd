@@ -1,6 +1,6 @@
 ---
 title: "Car Data"
-author: "Shivani Nayak"
+author: "Arya Devaskar"
 date: "November 5, 2022"
 output:
   ioslides_presentation: default
